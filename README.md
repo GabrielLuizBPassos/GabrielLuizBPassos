@@ -22,3 +22,8 @@ me.say_hi()
 
 
  # Highlight Projects 🗂️
+
+
+I am currently learning about Database (MySQL) and  Python.
+
+How to reach me: passos.gabrielluizz@gmail.com
