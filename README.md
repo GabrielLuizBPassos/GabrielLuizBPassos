@@ -27,6 +27,6 @@ me.say_hi()
 # About me 👨🏻‍💻
 
 
-* I am currently learning about Database (MySQL) and  Python.
+* I am currently learning about: Database (MySQL) and  Python.
 
 * How to reach me: passos.gabrielluizz@gmail.com
